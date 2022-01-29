@@ -1,23 +1,11 @@
 {
-    "0": "JAYKAY",
-    "1": "NIRLON",
-    "2": "ONGC",
-    "3": "OILCOUNTUB",
-    "4": "ORIENTHOT",
-    "5": "OSWALAGRO",
-    "6": "INDSUCR",
-    "7": "RELIANCE",
-    "8": "PILITA",
-    "9": "RAYMOND",
-    "10": "PIDILITIND",
-    "11": "PIXTRANS",
-    "12": "BIRLACORPN",
-    "13": "SURYAROSNI",
-    "14": "PRIMESECU",
-    "15": "PRSMJOHNSN",
-    "16": "RAIN",
-    "17": "AMJLAND",
-    "18": "PUNJCOMMU",
-    "19": "RSWM",
-    "20": "RAJSREESUG"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
